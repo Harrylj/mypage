@@ -14,16 +14,16 @@ a, a:link, a:active, a:visited, a:hover{color: #233241;line-height:35px; text-de
 pre{font-size: 12px;width: 100%;overflow: auto;-webkit-overflow-scrolling: touch;}
 #page nav{display: none;}
 .daohang{width:100%;}
-.daohang li{width:19%; float:left; list-style:none; padding:0px;}
-.daohang li a{padding:6px;background-color:#F5B23D;; color:#f5f5f5; text-decoration:none; fon-size:16px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}
+.daohang li{width:19%; float:left; list-style:none; padding:1px;}
+.daohang li a{padding:6px;background-color:#62bef1;; color:#f5f5f5; text-decoration:none; fon-size:16px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;}
 #header,
 .header,
 #footer{background: #587eac;font-size: 16px;font-weight: bold;color: #fff;text-align: center;line-height: 51px;height: 51px;padding: 0 50px;}
-.subHeader, .subFooter{background-color:#FE680A;font-size: 12px;color: #fff;line-height: 40px;padding: 0 10px;position:relative;}
+.subHeader, .subFooter{background-color:#fe2828;font-size: 12px;color: #fff;line-height: 40px;height: 40px;padding: 0 10px;position:relative;}
 .subHeader i.i-small{position: absolute; left: 16px !important; top: 11px !important; margin: 0px;}
 #header a,
 .header a{background: url('../images/icons.svg') no-repeat -21px -303px;display: block;width: 40px;height: 40px;position: absolute;top: 5px;left: 10px;}
-#header a.backBtn{background: url('../images/icons.svg') no-repeat -97px -303px;display: block;width: 40px;height: 40px;position: absolute;top: 5px;right: 0px;left: inherit;}
+#header a.backBtn{background: url('../images/icons.svg') no-repeat -97px -303px;display:\n block;width: 40px;height: 40px;position: absolute;top: 5px;right: 0px;left: inherit;}
 #header a.friends,
 #header a.right,
 .header a.right{left: auto;right: 10px;}
